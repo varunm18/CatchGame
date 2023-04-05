@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{92EC8BD2-2A11-FC4D-942E-33BFFCC9BF16}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2a548461-d69d-4ec8-bd37-73be3ac5f0ee" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlatformMovement.cs">
+    <Files>
+      <File FileName="Assets/DiamondSpawn.cs" />
+      <File FileName="Assets/DeleteDiamond.cs" />
+      <File FileName="Assets/PlatformMovement.cs" Line="64" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CatchGame" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
